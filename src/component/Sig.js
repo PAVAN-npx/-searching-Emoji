@@ -24,13 +24,13 @@ name:'ll',email:'lll',photo:'ll',last:'l',cre:''
     const[body,setbody]=useState(true)
     const[name,setname]=useState("")
     const firebaseConfig = {
-        apiKey: "AIzaSyDj_yFH1N5zH8wroWpmhG8xoU8uNoc3DyI",
-        authDomain: "fir-a122b.firebaseapp.com",
-        projectId: "fir-a122b",
-        storageBucket: "fir-a122b.appspot.com",
-        messagingSenderId: "190746243273",
-        appId: "1:190746243273:web:819eb56affbaf2b2f91d18",
-        measurementId: "G-E79WKT1NNX"
+      apiKey: "AIzaSyCofkS5sahRCaWzhWikdJWFRHeEzDCvSLQ",
+      authDomain: "eee-project-94495.firebaseapp.com",
+      projectId: "eee-project-94495",
+      storageBucket: "eee-project-94495.appspot.com",
+      messagingSenderId: "1031703689493",
+      appId: "1:1031703689493:web:046d7452d0d860bda2511c",
+      measurementId: "G-BMGYND98BD"
       };      
       // Initialize Firebase
       const app = initializeApp(firebaseConfig);
